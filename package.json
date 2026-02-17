@@ -1,0 +1,12 @@
+{
+  "name": "realtor-bot-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Property Bot Batumi - Telegram real estate bot",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["telegram", "bot", "realestate", "batumi", "landing"],
+  "author": "Eleonora Davidyan",
+  "license": "MIT"
+}
